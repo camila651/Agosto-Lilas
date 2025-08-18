@@ -22,7 +22,27 @@ main {
 	max-width: 800px;
 }
 
-p{
+p {
 	font-size: 20px;
-	colo
+	color: #000000;
+	line-height: 1.6;
+	margin-bottom: 15px;
+}
+
+img{
+	display: block;
+	margin: 20px auto;
+	max-width: 100%;
+	border: 3px solid #9e369d;
+	border-radius: 10px;
+}
+
+footer{
+	background-color: #8eecf1;
+	color: #000000;
+	text-align: center;
+	padding:15px;
+	margin-top: 40px;
+	font-size:14px;
+}
 
